@@ -24,4 +24,12 @@ def test_attemp_1():
     res = Solution.twoSum(self=Solution, nums=nums, target=target)
 
     assert res in [[0,1], [1,0]]
+
+    # test 4
+    nums = [-1,-2,-3,-4,-5]
+    target = -8
+
+    res = Solution.twoSum(self=Solution, nums=nums, target=target)
+
+    assert res in [[2,4], [4,2]]
     
