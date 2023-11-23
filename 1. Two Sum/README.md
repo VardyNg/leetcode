@@ -1,6 +1,6 @@
 # Two sum
 
-#### Attemps:
+#### Attempts:
 
 | # | Time Complexity | Space Complexity | Description | 
 | - | ---- | ----- | ----------- |

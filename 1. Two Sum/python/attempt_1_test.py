@@ -1,6 +1,6 @@
-from attemp_1 import Solution
+from attempt_1 import Solution
 
-def test_attemp_1():
+def test_attempt_1():
     # test 1
     nums = [2,7,11,15]
     target = 9

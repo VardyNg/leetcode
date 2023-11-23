@@ -1,6 +1,6 @@
 # Remove Duplicates from Sorted Array
 
-#### Attemps:
+#### Attempts:
 
 | # | Time Complexity | Space Complexity | Description | Submission |
 | - | ---- | ----- | ----------- | ----------- |

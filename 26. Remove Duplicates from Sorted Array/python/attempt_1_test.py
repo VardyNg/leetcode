@@ -1,6 +1,6 @@
 from attempt_1 import Solution
 
-def test_attemp_1():
+def test_attempt_1():
     # test 1
     nums = [1,1,2]
     expected_nums = [1,2]
