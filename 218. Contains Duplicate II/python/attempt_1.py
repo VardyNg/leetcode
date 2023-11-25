@@ -17,7 +17,7 @@ class Solution:
             print("last_start_index: ", last_start_index)
             if start_index != last_start_index: # it means the array has shifted and need to remove the previous element
                 hashset.remove(nums[last_start_index])
-                
+
             last_start_index = start_index
 
             # if num is in hashset, then it is a duplication
@@ -26,5 +26,5 @@ class Solution:
 
             # add the num to the sety
             hashset.add(num)
- 
+
         return False
