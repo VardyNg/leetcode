@@ -15,5 +15,7 @@ Have fun!
 |66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Doc](66.%20Plus%20One/README.md) | Easy | ⛔️ |
 |67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Doc](67.%20Add%20Binary/README.md) | Easy | ✅ |
 |83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Doc](83.%20Remove%20Duplicates%20from%20Sorted%20List/README.md) | Easy | ✅ |
+|141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Doc](141.%20Linked%20List%20Cycle/README.md) | Easy | ✅ |
+|142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Doc](142.%20Linked%20List%20Cycle%20II/README.md) | Medium | ✅ |
 |217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Doc](217.%20Contains%20Duplicate/README.md) | Easy | ✅ |
 |218 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Doc](218.%20Contains%20Duplicate%20II/README.md) | Easy | ✅ |
