@@ -3,6 +3,8 @@
 This repository contains my solutions to LeetCode problems.
 Have fun!
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vardyng?theme=dark&font=B612%20Mono)
+
 # Problems
 
 | # | Title | Solution | Difficulty | Completed
