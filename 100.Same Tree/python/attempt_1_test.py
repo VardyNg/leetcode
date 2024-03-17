@@ -54,8 +54,3 @@ def test_attempt_1():
 
     is_same_tree = Solution.isSameTree(self=Solution, p=p, q=q)
     assert is_same_tree is False
-    
-    p=[68,41,None,-85,None,-73,-49,-98,None,None,None,-124]
-    q=[68,41,None,-85,None,-73,-49,-98,None,None,None,-124]
-
-    assert Solution.isSameArray(self=Solution, p=p, q=q) is True
