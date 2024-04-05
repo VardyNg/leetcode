@@ -22,6 +22,7 @@ Have fun!
 |83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Doc](83.%20Remove%20Duplicates%20from%20Sorted%20List/README.md) | Easy | ✅ | 
 |100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Doc](100.Same%20Tree/README.md) | Easy | ✅ |
 |101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Doc](101.%20Symmetric%20Tree/README.md) | Easy | ✅ |
+|111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Doc](111.%20Minimum%20Depth%20of%20Binary%20Tree/README.md) | Easy | ✅ |
 |141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Doc](141.%20Linked%20List%20Cycle/README.md) | Easy | ✅ |
 |142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Doc](142.%20Linked%20List%20Cycle%20II/README.md) | Medium | ✅ |
 |217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Doc](217.%20Contains%20Duplicate/README.md) | Easy | ✅ |
