@@ -26,6 +26,7 @@ Have fun!
 |104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Doc](104.%20Maximum%20Depth%20of%20Binary%20Tree) | Easy | ✅ |
 |111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Doc](111.%20Minimum%20Depth%20of%20Binary%20Tree/README.md) | Easy | ✅ |
 |112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Doc](112.%20Path%20Sum/README.md) | Easy | ✅ |
+|113 | [Path Sum II]((https://leetcode.com/problems/path-sum/)) | [Doc](113.%20Path%20Sum%20II/README.md) |Medium | ✅ |
 |141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Doc](141.%20Linked%20List%20Cycle/README.md) | Easy | ✅ |
 |142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Doc](142.%20Linked%20List%20Cycle%20II/README.md) | Medium | ✅ |
 |217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Doc](217.%20Contains%20Duplicate/README.md) | Easy | ✅ |
