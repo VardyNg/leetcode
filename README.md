@@ -34,3 +34,4 @@ Have fun!
 |242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Doc](242.%20Valid%20Anagram/README.md) | Easy | ✅ |
 |383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Doc](383.%20Ransom%20Note/README.md) | Easy | ✅ |
 |1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Doc](1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README.md) | Easy | ✅ |
+|2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [Doc](2287.%20Rearrange%20Characters%20to%20Make%20Target%20String/README.md) | Easy | ✅ |
