@@ -34,6 +34,7 @@ Have fun!
 |217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Doc](217.%20Contains%20Duplicate/README.md) | Easy | ✅ |
 |218 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Doc](218.%20Contains%20Duplicate%20II/README.md) | Easy | ✅ |
 |242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Doc](242.%20Valid%20Anagram/README.md) | Easy | ✅ |
+|344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Doc](344.%20Reverse%20String/README.md) | Easy | ✅ |
 |383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Doc](383.%20Ransom%20Note/README.md) | Easy | ✅ |
 |1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Doc](1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README.md) | Easy | ✅ |
 |2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [Doc](2287.%20Rearrange%20Characters%20to%20Make%20Target%20String/README.md) | Easy | ✅ |
