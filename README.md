@@ -28,6 +28,7 @@ Have fun!
 |111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Doc](111.%20Minimum%20Depth%20of%20Binary%20Tree/README.md) | Easy | ✅ |
 |112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Doc](112.%20Path%20Sum/README.md) | Easy | ✅ |
 |113 | [Path Sum II]((https://leetcode.com/problems/path-sum/)) | [Doc](113.%20Path%20Sum%20II/README.md) |Medium | ✅ |
+|121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Doc](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md) | Easy | ✅ |
 |125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Doc](125.%20Valid%20Palindrome/README.md) | Easy | ✅ |
 |141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Doc](141.%20Linked%20List%20Cycle/README.md) | Easy | ✅ |
 |142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Doc](142.%20Linked%20List%20Cycle%20II/README.md) | Medium | ✅ |
