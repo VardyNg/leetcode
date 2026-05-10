@@ -8,4 +8,5 @@ The vowels are `'a'`, `'e'`, `'i'`, `'o'`, and `'u'`, and they can appear in bot
 
 | # | Time Complexity | Space Complexity | Description | Submission |
 | - | ---- | ----- | ----------- | ----------- |
-| 1 | O(n) | O(n) | Two pointers, move and compare charcters. If voewl, swap them | https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1999241204 |
+| 1 | O(n^2) | O(n) | Two pointers, move and compare charcters. If voewl, swap them | https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1999241204 |
+

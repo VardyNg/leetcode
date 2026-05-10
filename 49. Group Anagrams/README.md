@@ -11,4 +11,4 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 | # | Time Complexity | Space Complexity | Description | Submission |
 | - | ---- | ----- | ----------- | ----------- |
 | 1 | O(n x m) | O(n x m) | Generate hashmap for each string in strs, convert to the static key and appen in the array | https://leetcode.com/problems/group-anagrams/submissions/1999098314 |
-| 1 | O(n x k log k | O(n x k) | Loop each element, sort and add to the map) | https://leetcode.com/problems/group-anagrams/submissions/1999110160 |
+| 2 | O(n x k log k | O(n x k) | Loop each element, sort and add to the map) | https://leetcode.com/problems/group-anagrams/submissions/1999110160 |
