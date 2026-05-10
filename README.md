@@ -14,6 +14,7 @@ Have fun!
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Doc](3.%20Longest%20Substring%20Without%20Repeating%20Characters/README.md) | Medium | ✅ |
 |12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Doc](12.%20Integer%20to%20Roman/README.md) | Medium | ✅ |
 |13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Doc](13.%20Roman%20to%20Integer/README.md) | Easy | ✅ |
+|20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Doc](20.%20Valid%20Parentheses/README.md) | Easy | ✅ |
 |26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Doc](26.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md) | Easy | ✅ |
 |27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Doc](27.%20Remove%20Element/README.md) | Easy | ✅ |
 |28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Doc](28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/README.md) | Easy | 🗯️ Follow up |
