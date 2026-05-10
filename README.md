@@ -11,6 +11,7 @@ Have fun!
 |---| ----- | -------- | ---------- | --------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Doc](1.%20Two%20Sum/README.md)|Easy| ✅ |
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Doc](2.%20Add%20Two%20Numbers/README.md) | Medium | 🗯️ Follow up |
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Doc](3.%20Longest%20Substring%20Without%20Repeating%20Characters/README.md) | Medium | ✅ |
 |12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Doc](12.%20Integer%20to%20Roman/README.md) | Medium | ✅ |
 |13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Doc](13.%20Roman%20to%20Integer/README.md) | Easy | ✅ |
 |26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Doc](26.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md) | Easy | ✅ |
