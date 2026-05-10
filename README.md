@@ -34,6 +34,7 @@ Have fun!
 |125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Doc](125.%20Valid%20Palindrome/README.md) | Easy | ✅ |
 |141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Doc](141.%20Linked%20List%20Cycle/README.md) | Easy | ✅ |
 |142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Doc](142.%20Linked%20List%20Cycle%20II/README.md) | Medium | ✅ |
+|155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Doc](155.%20Min%20Stack/README.md) | Medium | ✅ |
 |209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Doc](209.%20Minimum%20Size%20Subarray%20Sum/README.md) | Medium | ✅ |
 |217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Doc](217.%20Contains%20Duplicate/README.md) | Easy | ✅ |
 |218 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Doc](218.%20Contains%20Duplicate%20II/README.md) | Easy | ✅ |
