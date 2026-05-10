@@ -38,5 +38,6 @@ Have fun!
 |344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Doc](344.%20Reverse%20String/README.md) | Easy | ✅ |
 |345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Doc](345.%20Reverse%20Vowels%20of%20a%20String/README.md) | Easy | ✅ |
 |383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Doc](383.%20Ransom%20Note/README.md) | Easy | ✅ |
+|643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Doc](643.%20Maximum%20Average%20Subarray%20I/README.md) | Easy | ✅ |
 |1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Doc](1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README.md) | Easy | ✅ |
 |2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [Doc](2287.%20Rearrange%20Characters%20to%20Make%20Target%20String/README.md) | Easy | ✅ |
