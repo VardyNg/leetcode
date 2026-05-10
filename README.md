@@ -43,5 +43,6 @@ Have fun!
 |383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Doc](383.%20Ransom%20Note/README.md) | Easy | ✅ |
 |643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Doc](643.%20Maximum%20Average%20Subarray%20I/README.md) | Easy | ✅ |
 |682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Doc](682.%20Baseball%20Game/README.md) | Easy | ✅ |
+|1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Doc](1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/README.md) | Easy | ✅ |
 |1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Doc](1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README.md) | Easy | ✅ |
 |2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [Doc](2287.%20Rearrange%20Characters%20to%20Make%20Target%20String/README.md) | Easy | ✅ |
