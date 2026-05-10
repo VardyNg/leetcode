@@ -11,4 +11,4 @@ An input string is valid if:
 
 | # | Time Complexity | Space Complexity | Description | Submission |
 | - | ---- | ----- | ----------- | ----------- |
-| 1 | O(n) | O(n) | Use an array as queue, push and pop conditionally. Determine validity by result queue length equal to 0 | https://leetcode.com/problems/valid-parentheses/submissions/2000013688 |
+| 1 | O(n) | O(n) | Use an array as stack, push and pop conditionally. Determine validity by result stack length equal to 0 | https://leetcode.com/problems/valid-parentheses/submissions/2000014996 |

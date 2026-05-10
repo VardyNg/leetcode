@@ -1,6 +1,6 @@
 function isValid(s: string): boolean {
 
-	let queue: string[] = [];
+	let stack: string[] = [];
 	const pairs: Record<string, string> = {
 		"(": ")",
 		"[": "]",
@@ -8,16 +8,16 @@ function isValid(s: string): boolean {
 	}
 	
 	for (const char of s) {
-		if (Object.keys(pairs).includes(char)) {
-			queue.push(pairs[char]);
-		} else if (queue[queue.length - 1] === char) {
-			queue.pop()
+		if (char in pairs) {
+			stack.push(pairs[char]);
+		} else if (stack[stack.length - 1] === char) {
+			stack.pop()
 		} else {
 			return false
 		}
 	}
 
-	return queue.length === 0
+	return stack.length === 0
 }
 
 export default isValid;
