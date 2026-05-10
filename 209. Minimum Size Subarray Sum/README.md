@@ -7,3 +7,4 @@ Given an array of positive integers `nums` and a positive integer `target`, retu
 | # | Time Complexity | Space Complexity | Description | Submission |
 | - | ---- | ----- | ----------- | ----------- |
 | 1 | O(n) | O(1) | Sliding windows | https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1999966144 |
+| 2 | O(n) | O(1) | Sliding windows, simplified | https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1999970367 |
